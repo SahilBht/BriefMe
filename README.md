@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine
 2. Install the required dependencies using pip install -r requirements.txt
-3. Run the application using python transcriber_test.ipynb
+3. Run the application using python Transcriber_test.ipynb
 
 ## Usage
 1. Open the application in your web browser
